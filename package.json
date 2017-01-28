@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node --use_strict index.js",
     "bundle": "webpack",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
     "postinstall": "npm run bundle"
   },
   "author": "",
